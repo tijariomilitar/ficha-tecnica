@@ -1,0 +1,15 @@
+Olá, [NomeComprador]. 
+.
+Sua encomenda já seguiu caminho até os Correios.
+.
+Segue o seu código de rastreio: 
+-----------------------
+[CodigoRastreio]
+-----------------------
+Contato nos seguintes números:
+
+Reclamações, defeitos de fabricação e devoluções: 21 99246 0116 (Whatsapp);
+Dúvidas sobre produtos e envios: 21 96421 1738 (Whatsapp);
+Outras dúvidas: 21 3449-9000 (Fixo);
+
+Att, J.A Rio Militar.

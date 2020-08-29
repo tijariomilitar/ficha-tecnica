@@ -1,0 +1,1 @@
+Boa tarde amigo, Obrigado pela compra, apenas me confirme se é para uso policial ou airsoft? Caso seja para uso policial esta capa comporta apenas a placa rígida de cerâmica como diz na descrição, o senhor está ciente? Aguardo seu retorno antes das 15:30h com o produto padrão como do anúncio. Att. J.A Rio Militar

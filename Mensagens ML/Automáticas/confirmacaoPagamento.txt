@@ -1,0 +1,19 @@
+Olá [NomeComprador], a sua compra foi confirmada, agradecemos pela preferência!
+
+Agora para que seu produto possa ser enviado com maior eficácia, precisamos que nos passe as seguintes informações:
+
+-PESO
+-ALTURA
+-CIRCUNFERÊNCIA ABDOMINAL
+-COR DO PRODUTO
+-COLDRE (Destro ou Canhoto).
+Compras confirmadas até as 14:00h serão despachadadas no mesmo dia, após este horário o envio será feito na manhã do dia seguinte.
+Caso as informações solicitadas não sejam repassadas dentro do tempo será enviado o produto com a configuração padrão do anúncio.
+
+Após a postagem dos seus produtos será liberado em até 48h no sistema dos correios o acompanhamento do seu código de rastreio.
+----------------- [CodigoRastreio] ------------------
+
+Para qualquer problema com sua compra entre em contato
+telefone 21 3449-9000 ou whatsApp 21 96421-1738
+
+Att, J.A Rio Militar. 
